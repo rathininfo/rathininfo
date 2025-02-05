@@ -13,11 +13,7 @@
 
 ---
 ## 🧑‍💻 About Me
-- 💡 Passionate about building dynamic and user-friendly web applications.
-- 🎯 Always eager to learn new technologies and improve coding skills.
-- 🌱 Currently exploring **Next.js** and **Tailwind CSS**.
-- 🤝 Looking to collaborate on innovative projects.
-- 💬 Ask me about **JavaScript, React, and Firebase**.
+I'm a passionate web developer with a focus on creating dynamic and user-friendly applications. I’m constantly exploring new technologies and improving my skills. Currently, I'm diving into **Next.js** and **Tailwind CSS**. I'm always open to collaborating on exciting projects and discussing **JavaScript**, **React**, and **Firebase**.
 
 ---
 
