@@ -4,3 +4,11 @@
 ---
 <h1 align="center">Rathindra Nath Biswas! 👋</h1>
 <h3 align="center">Web Developer</h3>
+---
+
+## 📍 Location & Contact
+- 🌍 **Location:** [Dhaka, Bangladesh]
+- 📧 **Email:** rathininfo7@gmail.com
+- 📞 **Contact:** +8801842944298
+
+---
