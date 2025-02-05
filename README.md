@@ -60,6 +60,12 @@ I'm a passionate web developer with a focus on creating dynamic and user-friendl
 ](https://github.com/programming-hero-web-course2/b10a11-client-side-rathininfo )
 📌 **Live Demo:** [Live Link](https://historical-artifacts-bfa1a.web.app/)  
 🛠️ **Tech Used:**React, Next.js, Node.js, MongoDB 
+
+## 🏠 Run the Project Locally
+1. **Clone the Repository**  
+   First, clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/rathininfo/Architecture-Website.git
  
 ### Project Preview
 ![Project Screenshot](https://i.ibb.co.com/gMpx0RcW/Screenshot-7.png)
@@ -71,6 +77,12 @@ I'm a passionate web developer with a focus on creating dynamic and user-friendl
 📌 **Live Demo:** [Live Link](https://tearful-year.surge.sh/)  
 🛠️ **Tech Used:** React, Firebase,  
 
+## 🏠 Run the Project Locally
+1. **Clone the Repository**  
+   First, clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
+
 ### Project Preview
 ![Project Screenshot](https://i.ibb.co.com/s99XXvkL/Screenshot-6.png)
 📜 **Overview:** Discover the latest and most innovative gadgets shaping the future.  
@@ -80,6 +92,12 @@ I'm a passionate web developer with a focus on creating dynamic and user-friendl
 ### 🌟 [Pet Adoption](https://github.com/programming-hero-web-course2/b10a6-pet-adoption-rathininfo)
 📌 **Live Demo:** [Live Link](https://orange-burn-234.surge.sh/)  
 🛠️ **Tech Used:** HTML, Tailwind CSS, React
+
+## 🏠 Run the Project Locally
+1. **Clone the Repository**  
+   First, clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/programming-hero-web-course2/b10a6-pet-adoption-rathininfo.git
 
 ### Project Preview
 ![Project Screenshot](https://i.ibb.co.com/5hSSwPmb/Screenshot-8.png)
