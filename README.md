@@ -39,3 +39,33 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rathininfo&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathininfo&layout=compact&theme=radical" alt="Top Languages">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathininfo&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+## 📌 Pinned Repositories
+
+---
+
+### 🌟 [Historical Artifacts Tracker
+](https://github.com/programming-hero-web-course2/b10a11-client-side-rathininfo )
+📌 **Live Demo:** [Live Link](https://historical-artifacts-bfa1a.web.app/)  
+🛠️ **Tech Used:**React, Next.js, Node.js, MongoDB 
+ 
+### Project Preview
+![Project Screenshot](https://i.ibb.co.com/x8mJ0CnL/Screenshot-5.png)
+📜 **Overview:** This application for tracking historical artifacts, allowing users to browse, view details, add entries, like artifacts, and track their contributions with a user-friendly interface..  
+
+📂 **Repository README Includes:**  
+✔ Screenshot of the project  
+✔ Main technologies used  
+✔ Core features  
+✔ Dependencies  
+✔ Step-by-step installation guide  
+✔ Live project link  
