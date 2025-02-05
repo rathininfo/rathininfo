@@ -17,6 +17,13 @@ I'm a passionate web developer with a focus on creating dynamic and user-friendl
 
 ---
 
+## 🚀 Current Activities
+- Exploring **Next.js** and **Tailwind CSS**.
+- Building a **tourism website**.
+- Contributing to open-source projects on GitHub.
+- Learning about **server-side rendering** and **GraphQL**.
+---
+
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -67,6 +74,16 @@ I'm a passionate web developer with a focus on creating dynamic and user-friendl
 ### Project Preview
 ![Project Screenshot](https://i.ibb.co.com/s99XXvkL/Screenshot-6.png)
 📜 **Overview:** Discover the latest and most innovative gadgets shaping the future.  
+
+---
+
+### 🌟 [Pet Adoption](https://github.com/programming-hero-web-course2/b10a6-pet-adoption-rathininfo)
+📌 **Live Demo:** [Live Link](https://orange-burn-234.surge.sh/)  
+🛠️ **Tech Used:** HTML, Tailwind CSS, React
+
+### Project Preview
+![Project Screenshot](https://i.ibb.co.com/s99XXvkL/Screenshot-6.png)
+📜 **Overview:** Find your perfect furry companion through our pet adoption platform, connecting you with loving pets in need of a home. 
 
 ---
 
