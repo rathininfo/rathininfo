@@ -12,3 +12,30 @@
 - 📞 **Contact:** +8801842944298
 
 ---
+## 🧑‍💻 About Me
+- 💡 Passionate about building dynamic and user-friendly web applications.
+- 🎯 Always eager to learn new technologies and improve coding skills.
+- 🌱 Currently exploring **Next.js** and **Tailwind CSS**.
+- 🤝 Looking to collaborate on innovative projects.
+- 💬 Ask me about **JavaScript, React, and Firebase**.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Skills" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github,firebase" alt="DevOps & Tools" />
+</p>
+
+---
