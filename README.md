@@ -82,7 +82,7 @@ I'm a passionate web developer with a focus on creating dynamic and user-friendl
 🛠️ **Tech Used:** HTML, Tailwind CSS, React
 
 ### Project Preview
-![Project Screenshot](https://i.ibb.co.com/s99XXvkL/Screenshot-6.png)
+![Project Screenshot](https://i.ibb.co.com/5hSSwPmb/Screenshot-8.png)
 📜 **Overview:** Find your perfect furry companion through our pet adoption platform, connecting you with loving pets in need of a home. 
 
 ---
