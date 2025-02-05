@@ -63,10 +63,15 @@ I'm a passionate web developer with a focus on creating dynamic and user-friendl
 
 ## 🏠 Run the Project Locally
 1. **Clone the Repository**  
-   First, clone the repository to your local machine:
+   clone the repository to your local machine:
    ```bash
    git clone https://github.com/rathininfo/Architecture-Website.git
- 
+   
+   2. Install Dependencies
+   *cd repository-name
+   *npm install
+   *Run the Project
+   
 ### Project Preview
 ![Project Screenshot](https://i.ibb.co.com/gMpx0RcW/Screenshot-7.png)
 📜 **Overview:** This application for tracking historical artifacts, allowing users to browse, view details, add entries, like artifacts, and track their contributions with a user-friendly interface..  
@@ -79,9 +84,14 @@ I'm a passionate web developer with a focus on creating dynamic and user-friendl
 
 ## 🏠 Run the Project Locally
 1. **Clone the Repository**  
-   First, clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
+   
+   2. Install Dependencies
+   *cd repository-name
+   *npm install
+   *Run the Project
+
 
 ### Project Preview
 ![Project Screenshot](https://i.ibb.co.com/s99XXvkL/Screenshot-6.png)
@@ -98,6 +108,11 @@ I'm a passionate web developer with a focus on creating dynamic and user-friendl
    First, clone the repository to your local machine:
    ```bash
    git clone https://github.com/programming-hero-web-course2/b10a6-pet-adoption-rathininfo.git
+   
+   2. Install Dependencies
+   *cd repository-name
+   *npm install
+   *Run the Project
 
 ### Project Preview
 ![Project Screenshot](https://i.ibb.co.com/5hSSwPmb/Screenshot-8.png)
