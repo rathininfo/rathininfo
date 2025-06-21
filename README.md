@@ -7,22 +7,21 @@
 ---
 
 ## 📍 Location & Contact
-- 🌍 **Location:** [Dhaka, Bangladesh]
+- 🌍 **Location:** [House: 168/3-1-A, Nazma Vila, Meradia Rd, Mojidbag 1219]
 - 📧 **Email:** rathininfo7@gmail.com
 - 📞 **Contact:** +8801842944298
 
 ---
 ## 🧑‍💻 About Me
-I'm a passionate web developer with a focus on creating dynamic and user-friendly applications. I’m constantly exploring new technologies and improving my skills. Currently, I'm diving into **Next.js** and **Tailwind CSS**. I'm always open to collaborating on exciting projects and discussing **JavaScript**, **React**, and **Firebase**.
+I’m a web developer passionate about building responsive and user-friendly web applications. I enjoy learning new technologies and improving my skills. Currently, I’m focusing on JavaScript, React, Node.js, , and Firebase. I’m always open to collaborating on interesting projects and growing through new challenges.
 
 ---
 
 ## 🚀 Current Activities
-- Exploring **Next.js** and **Tailwind CSS**.
-- Building a **tourism website**.
+- Exploring **Javascript, React,node.js** and **Firebase**.
+- Building a **Fitness Website**.
 - Contributing to open-source projects on GitHub.
-- Learning about **server-side rendering** and **GraphQL**.
----
+- Learning about and **Client-side**. **server-side** 
 
 ## 🚀 Tech Stack
 
